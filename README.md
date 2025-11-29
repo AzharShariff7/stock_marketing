@@ -115,8 +115,3 @@ This project allows users to upload stock market CSV data, select tickers, and v
 - Hosted on **Render**  
 - Live URL: [https://stock-marketing.onrender.com](https://stock-marketing.onrender.com)  
 
----
-
-## 📝 Author
-👤 Mohammed Afrid  
-📌 GitHub: [afridmd12](https://github.com/afridmd12)
